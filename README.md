@@ -1,4 +1,4 @@
 # blockchain-vote
 Blockchain-based secure online voting system
 
-No blockchain, os votos podem ser "transacionados" tão facilmente quanto as moedas digitais, como um bitcoin. Cada eleitor obtém uma identidade digital, junta-se à rede e registra a sua opção preferida em uma eleição ou referendo. Esse voto é gravado e adicionado a uma cadeia de blocos no sistema.
+In blockchain, votes can be "transacted" as easily as digital coins, as a bitcoin. Each voter gets a digital identity, joins the network and registers their preferred choice in an election or referendum. This vote is recorded and added to a chain of blocks in the system.
